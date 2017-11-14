@@ -1,0 +1,2 @@
+# bashfiles
+usefull git methods
