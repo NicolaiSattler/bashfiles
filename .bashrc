@@ -1,8 +1,8 @@
 source ~/git-completion.bash
 
-dqbranch='develop'
+editbranch='develop'
 
-setbranch(){ dqbranch="$1";}
+setbranch(){ editbranch="$1";}
 
 alias dircheckout='find . -maxdepth 1 -mindepth 1 -type d -exec sh -c "(echo {} && cd {} && git checkout $dqbranch && echo)" \;'
 alias dirstatus='find . -maxdepth 1 -mindepth 1 -type d -exec sh -c "(echo {} && cd {} && git status -s && echo)" \;'
