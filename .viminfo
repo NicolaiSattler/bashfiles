@@ -1,0 +1,296 @@
+# Dit viminfo-bestand is aangemaakt door Vim 8.0.
+# Bewerken is toegestaan, maar doe het met aandacht!
+
+# Viminfo version
+|1,4
+
+# Waarde van 'encoding' bij het opslaan van dit bestand
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Opdrachtregel Historie (jongste naar oudste):
+:q
+|2,0,1523526277,,"q"
+:Q
+|2,0,1521463405,,"Q"
+:wq
+|2,0,1510734168,,"wq"
+
+# Zoekstring Historie (jongste naar oudste):
+
+# Expressie Historie (jongste naar oudste):
+
+# Invoerregel Historie (jongste naar oudste):
+
+# Debug Line Historie (jongste naar oudste):
+
+# Registers:
+"q	CHAR	0
+	
+|3,0,26,0,1,0,1515752765,""
+""-	CHAR	0
+	q
+|3,1,36,0,1,0,1509366895,"q"
+
+# File marks:
+'0  1  0  ~/Documents/DataQuint/geovisia-online/.git/MERGE_MSG
+|4,48,1,0,1523526277,"~/Documents/DataQuint/geovisia-online/.git/MERGE_MSG"
+'1  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,49,2,0,1522997519,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+'2  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,50,2,0,1522833253,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+'3  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,51,2,0,1521463407,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+'4  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,52,2,0,1521463407,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+'5  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,53,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+'6  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,54,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+'7  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,55,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+'8  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,56,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+'9  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,57,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+
+# Jumplist (newest first):
+-'  1  0  ~/Documents/DataQuint/geovisia-online/.git/MERGE_MSG
+|4,39,1,0,1523526277,"~/Documents/DataQuint/geovisia-online/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1522997519,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1522997519,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1522833253,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1522833253,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1521463407,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1521463407,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  1  0  ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+|4,39,1,0,1521462612,"~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  7  0  ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+|4,39,7,0,1521461896,"~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1519799904,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1518791516,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1518791516,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1518791516,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1518791516,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1518791516,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1518791516,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1518791516,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1518791516,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517383801,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517383801,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517383801,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517383801,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517383801,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517383801,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517383801,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517383801,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517234386,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517234386,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517234386,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517234386,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517234386,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517234386,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517234386,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1517234386,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516871046,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516871046,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516871046,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516871046,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516871046,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516871046,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516871046,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516871046,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516288925,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516288925,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516288925,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516288925,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+-'  2  0  ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+|4,39,2,0,1516288925,"~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG"
+
+# History of marks within files (newest to oldest):
+
+> ~/Documents/DataQuint/geovisia-online/.git/MERGE_MSG
+	*	1523526274	0
+	"	1	0
+
+> ~/Documents/DataQuint/geovisia-addon-schouwen/.git/MERGE_MSG
+	*	1522997516	0
+	"	2	0
+
+> ~/Documents/DataQuint/geovisia-desktop-components-tatuk/.git/MERGE_MSG
+	*	1521462610	0
+	"	1	0
+
+> ~/Documents/DataQuint/geovisia-desktop/.git/MERGE_MSG
+	*	1521461893	0
+	"	7	0
+
+> ~/Documents/DataQuint/dataquint-synchronization/.git/MERGE_MSG
+	*	1512994642	0
+	"	1	0
+
+> ~/Documents/DataQuint/geovisia-addon-schouwen/.git/COMMIT_EDITMSG
+	*	1508143254	0
+	"	1	0
+
+> ~/Documents/DataQuint/geovisia-framework/.git/MERGE_MSG
+	*	1507556320	0
+	"	7	2
+
+> ~/.bashrc
+	*	1504873073	0
+	"	3	109
+	^	3	8
+	.	1	109
+	+	1	109
