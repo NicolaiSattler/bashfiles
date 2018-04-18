@@ -25,7 +25,7 @@ alias dirbranch='loopdir "git git rev-parse --abbrev-ref HEAD"'
 alias dirfetch='loopdir "git fetch"'
 alias dirpull='loopdir "git pull"'
 
-declare rootdir='C:\Users\NicolaiSättler\Documents\DataQuint\'
+declare rootdir='C:\EXAMPLE\BLA'
 loopdir()
 {
     currentFolder=$(pwd)
@@ -45,15 +45,8 @@ nugetRestore()
 {
     #requires Chocolatey
     #requires nuget for commandline
-    nuget restore "geovisia-online\GeoVisia.Online.All.sln"
-    nuget restore "geovisia-online\GeoVisia.Online.Application"
-    nuget restore "geovisia-online-components"
-    nuget restore "geovisia-online-components-openlayers"
-    nuget restore "geovisia-framework"
-    nuget restore "dataquint-system-security\DataQuint.System.Security"
-    nuget restore "geovisia-addon-cyclomedia\GeoVisia.Online.Addons.StreetSmart"
-    nuget restore "geovisia-addon-maatregeltoets" 
-    nuget restore "geovisia-addon-schouwen\GeoVisia.Online.Addon.sln"
+    cd $rootdir
+    nuget restore "folder\example"
 }
 
 dqbranch='develop'
